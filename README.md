@@ -2,7 +2,7 @@
 <br>
 1. Praktischer Umgang mit Daten, Machine Learning und KI mittels Python und Jupyter Notebooks
 <br>
-2. Kennenlernen verschiedener Tools z.B. Pandas, TensorFlow, scikit-learn
+2. Kennenlernen verschiedener Tools z.B. Pandas, TensorFlow, Scikit-learn。 Keras
 <br>
 3. Grundverständnis über die gängigsten Verfahren
 <br>
