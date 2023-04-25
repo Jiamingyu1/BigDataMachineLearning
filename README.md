@@ -1,9 +1,9 @@
 # Praktikum Big Data Machine Learning
 <br>
-Praktischer Umgang mit Daten, Machine Learning und KI mittels Python und Jupyter Notebooks
+1. Praktischer Umgang mit Daten, Machine Learning und KI mittels Python und Jupyter Notebooks
 <br>
-Kennenlernen verschiedener Tools 
+2. Kennenlernen verschiedener Tools z.B. Pandas, TensorFlow, scikit-learn
 <br>
-Grundverständnis über die gängigsten Verfahren
+3. Grundverständnis über die gängigsten Verfahren
 <br>
-Bearbeitung Praxisnaher Probleme
+4. Bearbeitung Praxisnaher Probleme
